@@ -1,8 +1,8 @@
-# Ripple
+# Fluid Simulation
 
 A real-time **2D fluid simulation** built on **smoothed-particle hydrodynamics (SPH)**. A few thousand particles, each carrying mass, collectively behave like water — sloshing, splashing, and settling under genuine pressure and viscosity forces. Stir it with your cursor.
 
-**▶ Live:** https://andreaisabelmontana.github.io/ripple/
+**▶ Live:** https://andreaisabelmontana.github.io/fluid-simulation/
 
 > **Not an original idea.** This recreates the concept of an existing project — I didn't invent it. I rebuilt it from scratch, my own way, out of curiosity about how it actually works (and tried to make it a little better along the way).
 
