@@ -4,6 +4,8 @@ A real-time **2D fluid simulation** built on **smoothed-particle hydrodynamics (
 
 **▶ Live:** https://andreaisabelmontana.github.io/ripple/
 
+> **Not an original idea.** This recreates the concept of an existing project — I didn't invent it. I rebuilt it from scratch, my own way, out of curiosity about how it actually works (and tried to make it a little better along the way).
+
 ## How it works
 
 SPH (Müller et al., 2003) treats the fluid as particles and *smooths* its properties over neighbours within a radius using kernel functions:
